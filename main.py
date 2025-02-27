@@ -8,4 +8,3 @@ def welcome():
     print("New Screen")
 
 print("test")
-print("test")
